@@ -32,4 +32,4 @@ django-silk = "*"
 model-bakery = "*"
 
 [requires]
-python_version = "3.9"
+python_version = "3.8.10"
