@@ -21,6 +21,7 @@ dj-database-url = "*"
 django-silk = "*"
 celery = "*"
 django-cors-headers = "*"
+pillow = "*"
 
 [dev-packages]
 autopep8 = "*"
