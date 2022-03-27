@@ -20,6 +20,7 @@ gunicorn = "*"
 dj-database-url = "*"
 django-silk = "*"
 celery = "*"
+django-cors-headers = "*"
 
 [dev-packages]
 autopep8 = "*"
