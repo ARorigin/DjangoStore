@@ -6,7 +6,7 @@ DEBUG = False
 
 SECRET_KEY = os.environ['SECRET_KEY']
 
-ALLOWED_HOSTS = ['https://raybuy-prod.herokuapp.com']
+ALLOWED_HOSTS = ['raybuy-prod.herokuapp.com']
 
 DATABASES = {
     'default': dj_database_url.config()
