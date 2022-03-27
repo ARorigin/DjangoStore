@@ -4,8 +4,6 @@ from rest_framework import status
 import pytest
 from model_bakery import baker
 
-from store.tests.conftest import authenticate
-
 
 @pytest.fixture
 def create_collection(api_client):

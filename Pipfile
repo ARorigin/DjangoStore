@@ -22,6 +22,7 @@ django-silk = "*"
 celery = "*"
 django-cors-headers = "*"
 pillow = "*"
+pytest-django = "*"
 
 [dev-packages]
 autopep8 = "*"
