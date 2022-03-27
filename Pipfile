@@ -19,6 +19,7 @@ whitenoise = "*"
 gunicorn = "*"
 dj-database-url = "*"
 django-silk = "*"
+celery = "*"
 
 [dev-packages]
 autopep8 = "*"
